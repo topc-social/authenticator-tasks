@@ -10,3 +10,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 2 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #1: Chrome extension v1: import an otpauth file, lock it with a passphrase, show the codes | 3,960 | provisional | https://github.com/kamal0808/authenticator/pull/1 |
 | 3 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #4: Unlock the vault with Touch ID instead of typing the passphrase | 27 | provisional | https://github.com/topc-social/authenticator-tasks/issues/4 |
 | 4 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #4: Unlock the vault with Touch ID instead of typing the passphrase | 2,673 | provisional | https://github.com/kamal0808/authenticator/pull/4 |
+| 5 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #3: Find out if Touch ID can unlock the vault in this browser | 8 | provisional | https://github.com/topc-social/authenticator-tasks/issues/3 |
+| 6 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #3: Find out if Touch ID can unlock the vault in this browser | 792 | provisional | https://github.com/kamal0808/authenticator/pull/3 |
