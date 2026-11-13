@@ -12,3 +12,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 4 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #4: Unlock the vault with Touch ID instead of typing the passphrase | 2,673 | provisional | https://github.com/kamal0808/authenticator/pull/4 |
 | 5 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #3: Find out if Touch ID can unlock the vault in this browser | 8 | provisional | https://github.com/topc-social/authenticator-tasks/issues/3 |
 | 6 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #3: Find out if Touch ID can unlock the vault in this browser | 792 | provisional | https://github.com/kamal0808/authenticator/pull/3 |
+| 7 | 2026-11-14 | Kamal Khatwani | Idea (1%) for #5: Phone SMS codes arrive on the Mac: a small receiver on the Mac mini | 27 | provisional | https://github.com/topc-social/authenticator-tasks/issues/5 |
+| 8 | 2026-11-14 | Kamal Khatwani (via Claude) | Work (99%) on #5: Phone SMS codes arrive on the Mac: a small receiver on the Mac mini | 2,673 | provisional | https://github.com/kamal0808/authenticator/pull/5 |
