@@ -6,3 +6,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 
 | # | Date | Who | What | Neki | Status | Link |
 |---|---|---|---|---|---|---|
+| 1 | 2026-11-13 | Kamal Khatwani | Idea (1%) for #1: Chrome extension v1: import an otpauth file, lock it with a passphrase, show the codes | 40 | provisional | https://github.com/topc-social/authenticator-tasks/issues/1 |
+| 2 | 2026-11-13 | Kamal Khatwani (via Claude) | Work (99%) on #1: Chrome extension v1: import an otpauth file, lock it with a passphrase, show the codes | 3,960 | provisional | https://github.com/kamal0808/authenticator/pull/1 |
